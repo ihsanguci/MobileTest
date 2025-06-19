@@ -1,0 +1,3 @@
+btnCreate: xpath://android.view.View[@resource-id="CreateNewWalletButton"]/android.widget.Button
+btnSkip: xpath://android.widget.TextView[@resource-id="secondaryAction"]
+txtSuccess: xpath://android.widget.TextView[@text="Brilliant, your wallet is ready!"]
